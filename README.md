@@ -1,4 +1,4 @@
-/*
+
   Currency Converter Web Application
   ----------------------------------
   A lightweight and interactive web app for converting between major global currencies using real-time exchange rates.
@@ -7,4 +7,3 @@
 
   Author: Medikonda Susmitha
   Date: May 2025
-*/
